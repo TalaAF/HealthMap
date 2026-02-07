@@ -281,14 +281,6 @@ The Health Signal Module is designed with privacy-first principles:
 4. **Scaling**: Consider containerization (Docker) and orchestration (Kubernetes)
 5. **Monitoring**: Add logging and monitoring (ELK stack, Prometheus)
 
-## 📄 License
 
-[Add your license here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines here]
-
----
 
 **Built for disaster response and public health emergency management**
