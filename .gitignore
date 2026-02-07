@@ -1,0 +1,25 @@
+# Backend
+healthmap-backend/target/
+healthmap-backend/*.iml
+healthmap-backend/.idea/
+healthmap-backend/uploads/*
+!healthmap-backend/uploads/.gitkeep
+
+# Frontend
+healthmap-dashboard/node_modules/
+healthmap-dashboard/dist/
+healthmap-dashboard/.env.local
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
